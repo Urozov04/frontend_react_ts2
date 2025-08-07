@@ -121,7 +121,7 @@ const FormControl: FC<Props> = ({ setData, editingItem, setEditingItem }) => {
         type="submit"
         className="w-full bg-blue-400 hover:bg-indigo-700 text-white py-2 rounded-full font-semibold transition duration-300"
       >
-        Saqlash
+        Submit
       </button>
     </form>
   );
